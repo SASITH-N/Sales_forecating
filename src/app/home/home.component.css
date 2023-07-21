@@ -1,0 +1,19 @@
+.index{
+    
+    width:700px;
+    left: 400px;
+    align-content: center;
+    height: 500px;
+   /* background-image: url("2.JPG");*/
+    background-color: aquamarine;
+    
+}
+.bg{
+    /* background-image: url("im1.jpg"); */
+    background-color: honeydew;
+    
+}
+p:hover{
+    background-color: black;
+    width: 400x;
+}
